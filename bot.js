@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@Nasif404 
+Nasif404
 /
-RICHUSER_B1
+NIYAMWOL-BOT
 Public
-forked from richusir/RICHUSER_B1
+forked from Nasif404/NIYAMWOL-BOT
 0
 1121
 Code
@@ -21,13 +21,13 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
-richusir Create bot.js
+NIYAMWOL/bot.js /
+@Nasif404
+Nasif404 Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
-@farhan-dqz@phaticusthiccy@yusufusta@richusir@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
+@farhan-dqz@phaticusthiccy@yusufusta@Nasif404@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
 274 lines (239 sloc)  11.5 KB
   
 /* Copyright (C) 2020 Yusuf Usnta.
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('NIYAMWOL working perfectly 💘')
         );
     });
     
