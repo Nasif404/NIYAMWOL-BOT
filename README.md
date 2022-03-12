@@ -1,15 +1,15 @@
 <div align="center">
 
-## Its_me_Richuser
+## Its_me_NIYAMWOL
 
 <div align="center">
-  <img src=richusher.jpg>
+  <img src=https://i.imgur.com/CzL4XyJ.jpeg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IBmcCYL2YUpFZJdWMA68it) 
+  [![join](https://github.com/NIYAMWOL-BOT/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FaGaRHqwf9PK28zoOPfigR) 
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### Its_me_Nasif
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
- https://github.com/Richuser_b1 |  
+  [![Nasif](<https://i.imgur.com/qEriAFU.jpeg>
+ https://github.com/Niyamwol-bot |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_Nasif](https://github.com/Niyamwol-bot)  |
 Base, Bug Fixes, Modules | 
   
     
